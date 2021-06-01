@@ -36,7 +36,7 @@ VS Store é um aplicativo para uma loja online.
 	 - [x] Listar produtos
 	 - [x] Pesquisar por palavra-chave
 	 - [x] Filtrar lista de produtos (categoria, promoção, ordenação por nome e preço)
-	 - [ ] Adicionar e remover produto aos favoritos 
+	 - [x] Adicionar e remover produto aos favoritos 
 	 
 ---
 
