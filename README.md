@@ -1,7 +1,7 @@
 
 <p align="center">  
-  <a href="https://github.com/VanessaSwerts/challenge-flutter-fullstack/commits/frontend">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VanessaSwerts/challenge-flutter-fullstack/frontend">
+  <a href="https://github.com/VanessaSwerts/vs-store">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VanessaSwerts/vs-store">
   </a>    
 </p>
 
@@ -82,13 +82,10 @@ Para o Expo é necessário realizar a instalação no seu computador e celular, 
 
    ```bash
     # Clone este repositório
-    $ git clone https://github.com/VanessaSwerts/challenge-flutter-fullstack.git
+    $ git clone https://github.com/VanessaSwerts/vs-store.git
 
     # Acesse a pasta do projeto no seu terminal/cmd
-    $ cd challenge-flutter-fullstack
-    
-    # Altere para a branch do frontend
-    $ git checkout frontend
+    $ cd vs-store
 
     # Instale as dependências
     $ yarn install
@@ -104,7 +101,7 @@ Para o Expo é necessário realizar a instalação no seu computador e celular, 
 Atualizado 31/05/2021
 
 ```
-frontend
+vs-store
 ├─ .editorconfig
 ├─ .eslintignore
 ├─ .eslintrc.json
@@ -190,7 +187,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   -   **[ESlint](https://eslint.org)**
   -   **[Prettier](https://prettier.io)**
 
-Veja o arquivo  [package.json](https://github.com/VanessaSwerts/challenge-flutter-fullstack/blob/frontend/package.json)
+Veja o arquivo  [package.json](https://github.com/VanessaSwerts/vs-store/blob/master/package.json)
 
 ---
 
